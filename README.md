@@ -1,5 +1,5 @@
 # chime-machine
 
-To be updated.
+This repo is in progress.
 
-Current code is from 11/14/19 and may be updated with newer version.
+Uploaded code is from 11/14/19 and may be updated with a version from 12/2019.
